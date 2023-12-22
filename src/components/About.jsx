@@ -20,7 +20,7 @@ const About = () => (
             className={style.link}
             rel="noreferrer"
           >
-            Ronny Powers
+            Ronny PowWWWers
           </a>{" "}
           and I am a passionate software engineer specializing in delivering
           state-of-the-art software solutions in JavaScript, C#, PHP, WordPress,
